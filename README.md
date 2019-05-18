@@ -25,3 +25,4 @@ Download data from https://pjreddie.com/media/files/yolov3.weights
 ```python cam_demo.py```
 
 # Result
+![result.png](https://github.com/Hydragon516/Pytorch-yolov3/blob/master/images/result.png)
