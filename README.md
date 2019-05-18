@@ -18,7 +18,7 @@ In anaconda environment, it can be installed with the following command.
 ```pip install -r requirements.txt```
 
 ### 4. Download yolo.weights
-download data from https://pjreddie.com/media/files/yolov3.weights
+Download data from https://pjreddie.com/media/files/yolov3.weights
 
 # Sample test
 ### Run cam_demo.py
